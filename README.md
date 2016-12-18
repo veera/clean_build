@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# Build
+
+[![Build Status](https://travis-ci.org/veera/clean_build.svg?branch=master)](https://travis-ci.org/veera/clean_build)
